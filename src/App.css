@@ -1,0 +1,39 @@
+.color-pink {
+  color: pink;
+}
+
+.stylenone {
+  list-style: none;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+/* .center {
+  transform: translate(-25%);
+  margin-left: 50%;
+} */
+
+.textcenter {
+  text-align: center;
+}
+
+.justifycenter {
+  justify-content: center;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #000;
+}
+.off {
+  color: #ccc;
+}
